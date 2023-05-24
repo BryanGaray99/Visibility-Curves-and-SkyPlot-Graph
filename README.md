@@ -10,7 +10,7 @@ This project consists of a graphical interface made in Python with Tkinter to pr
 Much of the project was done thanks to libraries that facilitate the work with astronomy tools such as: 
 - Astropy: https://docs.astropy.org/en/stable/.
 - Astroplan: https://astroplan.readthedocs.io/en/latest/api.html#module-astroplan.
-Also other libraries were used for data management and graphs and visualizations such as: 
+<p>Also other libraries were used for data management and graphs and visualizations such as:</p> 
 - Numpy
 - Matplotlib
 
@@ -31,7 +31,7 @@ The available buttons are:
 
 ### Visibility Curves
 The first tool displayed to the user is the visibility curve.
-<img src="assets/M1-Visiblity-Curve.png">
+<p><img src="assets/M1-Visiblity-Curve.png"></p>
 A two-dimensional graph with 3 variables can be seen: 
 - Altitude: In degrees from 0 to 90. 
 - Time in local time: The graph shows 12 hours before and 12 hours after local midnight of the date entered.
@@ -41,11 +41,11 @@ A two-dimensional graph with 3 variables can be seen:
 - The twilights by means of vertical stripes and a gradient of colors being white the day and the darkest black the astronomical night, passing through the twilights: Civil, Nautical and Astronomical.  
 
 ### SkyPlot in Polar Graph
-<img src="assets/M1-Skyplot.png">
+<p><img src="assets/M1-Skyplot.png"></p>
 In this polar plot we can see the movement of the astronomical object during the observation period 12 hours before and after the astronomical midnight of the date entered. In polar coordinates the angle would be the Azimuth measured from north (0 to 360 degrees) of the object and the distance would be the Altitude (0 to 90 degrees).
 
 ### Photo of the Object 
-<img src="M1-picture.png">
+<p><img src="assets/M1-picture.png"></p>
 This option allows you to obtain a photo from the repository of NASA Goddard's SkyView service via astroquery.skyview.SkyView, using plot_finder_image from the AstroPlan library. The photo is in negative, and is with absolute equatorial coordinates: DEC and AR. 
 Important notice: Some images like stars sometimes do not load. It is usually faster with Messier objects. 
 
