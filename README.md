@@ -1,7 +1,10 @@
 # Astronomical Tools: Visibility Curves and Polar Graphs
+
 <p align="center">
-  <img src="assets/M45-Bryan-Garay.jpeg" width="200px" alt="M45">
+  <img src="assets/M45-Bryan-Garay.jpeg" width="300px" alt="M45">
+  <p>Photo of Messier M45 by Bryan Garay</p>
 </p>
+
 ## Description 
 This project consists of a graphical interface made in Python with Tkinter to provide the user with astronomical tools for observing the sky. The tools that can be generated in the interface are: 
 - Visibility Curves 
