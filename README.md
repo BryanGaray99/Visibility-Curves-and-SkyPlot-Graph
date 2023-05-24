@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="assets/M45-Bryan-Garay.jpeg" width="300px" alt="M45">
-  <p align="center">Photo of Messier M45 by Bryan Garay</p>
+  <p align="center">Photo of Messier 42 by Bryan Garay</p>
 </p>
 
 ## Description 
