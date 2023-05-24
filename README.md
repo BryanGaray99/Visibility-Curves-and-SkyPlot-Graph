@@ -10,20 +10,24 @@ This project consists of a graphical interface made in Python with Tkinter to pr
 Much of the project was done thanks to libraries that facilitate the work with astronomy tools such as: 
 - Astropy: https://docs.astropy.org/en/stable/.
 - Astroplan: https://astroplan.readthedocs.io/en/latest/api.html#module-astroplan.
-<p>Also other libraries were used for data management and graphs and visualizations such as:</p> 
+
+Also other libraries were used for data management and graphs and visualizations such as:
 - Numpy
 - Matplotlib
 
 ## Interface
 
 The interface looks like this :
+
 <img src="assets/Interface.png">
+
 There are 6 data entry fields with examples of how data should be entered:
 -Observer's location (Longitude and Latitude).
 - Coordinates of the object (Right Ascension and Declination).
 - Date and local time of the observer. 
 - Name of the object. 
-The available buttons are: 
+
+The available buttons are:
 - Button to verify the data.
 - Button to display the visibility curve graph.
 - Button to display the object's movement in alt-azimuthal coordinates of the object in a polar plot.
