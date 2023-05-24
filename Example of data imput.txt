@@ -1,0 +1,26 @@
+Crab Nebula-M1 (Туманность, созвездие Тельца) :
+2021-12-06 22:00:00
+Kazan 
+Latitud 55d47m19.46s
+Longitud 49d7m19.7s
+Ra: 05h34m31.94s
+Dec: 22d00m52.2s
+
+Betelguese:
+Guayaquil    
+Time = 2021-12-05 22:00:00
+Lon = -79d54m28.6s   
+Lat = -02d12m21.0s
+Ra = 05h55m10.30536s
+Dec = 07d24m25.4304s
+
+Vega: 
+2021-07-06 22:00:00 Kazan 
+Latitud 55d47m19.46s
+Longitud 49d7m19.7s
+Vega 
+RA = 18h36m56.33635s
+Dec = 38d47m01.2802s
+
+
+
