@@ -22,7 +22,7 @@ The interface looks like this :
 <img src="assets/Interface.png">
 
 There are 6 data entry fields with examples of how data should be entered:
--Observer's location (Longitude and Latitude).
+- Observer's location (Longitude and Latitude).
 - Coordinates of the object (Right Ascension and Declination).
 - Date and local time of the observer. 
 - Name of the object. 
@@ -36,6 +36,7 @@ The available buttons are:
 ### Visibility Curves
 The first tool displayed to the user is the visibility curve.
 <p><img src="assets/M1-Visiblity-Curve.png"></p>
+
 A two-dimensional graph with 3 variables can be seen: 
 - Altitude: In degrees from 0 to 90. 
 - Time in local time: The graph shows 12 hours before and 12 hours after local midnight of the date entered.
